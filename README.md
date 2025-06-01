@@ -6,7 +6,7 @@ Aplicación de escritorio siguiendo el estilo cliente-servidor en Java y con Jav
 
 - Tener descargado java (23 mínimo) y un IDE (en particular se uso VS Code)
 - Ejecutar el archivo Server.java (si el servidor ya está lanzado con un dominio público este paso no es necesario)
-- Copiar la direción IP (ya sea la mostrada al ejecutar el servidor o la que se nos ha sumistrado)
+- Copiar la direción IP (ya sea la mostrada al ejecutar el servidor o la que se nos han sumistrado)
 - Ejecutar el archivo Client.java (dos veces para cada jugador, si se juega en local)
 - Pegar la dirección IP, escribir un nombre y elegir si entrar normal o que se coloquen las piezas automáticamente
 
